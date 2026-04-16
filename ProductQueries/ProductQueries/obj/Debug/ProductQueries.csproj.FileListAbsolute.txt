@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe.config
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\bin\Debug\ProductQueries.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\bin\Debug\ProductQueries.pdb
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Form1.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.Properties.Resources.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductQueries\ProductQueries\obj\Debug\ProductQueries.pdb

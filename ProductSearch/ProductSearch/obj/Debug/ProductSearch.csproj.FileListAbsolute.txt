@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\bin\Debug\ProductSearch.exe.config
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\bin\Debug\ProductSearch.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\bin\Debug\ProductSearch.pdb
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Form1.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Properties.Resources.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb

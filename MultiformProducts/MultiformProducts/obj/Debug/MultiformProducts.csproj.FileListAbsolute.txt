@@ -1,0 +1,11 @@
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.DetailsForm.resources
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.MainForm.resources
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.Properties.Resources.resources
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\bin\Debug\MultiformProducts.exe.config
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\bin\Debug\MultiformProducts.exe
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\bin\Debug\MultiformProducts.pdb
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.exe
+C:\Users\steve\Desktop\Database_Lab06\MultiformProducts\MultiformProducts\obj\Debug\MultiformProducts.pdb

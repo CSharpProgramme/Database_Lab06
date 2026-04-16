@@ -1,0 +1,10 @@
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe.config
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\bin\Debug\ProductLookup.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\bin\Debug\ProductLookup.pdb
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Form1.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.Properties.Resources.resources
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.exe
+C:\Users\steve\Desktop\Database_Lab06\ProductLookup\ProductLookup\obj\Debug\ProductLookup.pdb

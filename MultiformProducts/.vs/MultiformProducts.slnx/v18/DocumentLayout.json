@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\multiformproducts\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|solutionrelative:multiformproducts\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\multiformproducts\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|solutionrelative:multiformproducts\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|c:\\users\\steve\\desktop\\database_lab06\\multiformproducts\\multiformproducts\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|solutionrelative:multiformproducts\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\multiformproducts\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E22652-99E2-4AC8-8EFB-DB737342C148}|MultiformProducts\\MultiformProducts.csproj|solutionrelative:multiformproducts\\detailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\DetailsForm.cs",
+              "RelativeDocumentMoniker": "MultiformProducts\\DetailsForm.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\DetailsForm.cs",
+              "RelativeToolTip": "MultiformProducts\\DetailsForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:46:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\MainForm.cs",
+              "RelativeDocumentMoniker": "MultiformProducts\\MainForm.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\MainForm.cs",
+              "RelativeToolTip": "MultiformProducts\\MainForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:34:58.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\DetailsForm.cs",
+              "RelativeDocumentMoniker": "MultiformProducts\\DetailsForm.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\DetailsForm.cs [Design]",
+              "RelativeToolTip": "MultiformProducts\\DetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:31:12.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\MainForm.cs",
+              "RelativeDocumentMoniker": "MultiformProducts\\MainForm.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Database_Lab06\\MultiformProducts\\MultiformProducts\\MainForm.cs [Design]",
+              "RelativeToolTip": "MultiformProducts\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:20:51.041Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

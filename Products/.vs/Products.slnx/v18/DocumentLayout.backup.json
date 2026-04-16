@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Database_Lab06\\Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83407A5-75DB-476B-97B4-292C17F2EE0F}|Products\\Products.csproj|c:\\users\\steve\\desktop\\database_lab06\\products\\products\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C83407A5-75DB-476B-97B4-292C17F2EE0F}|Products\\Products.csproj|solutionrelative:products\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Database_Lab06\\Products\\Products\\Form1.cs",
+              "RelativeDocumentMoniker": "Products\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Database_Lab06\\Products\\Products\\Form1.cs [Design]",
+              "RelativeToolTip": "Products\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:59:39.14Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
